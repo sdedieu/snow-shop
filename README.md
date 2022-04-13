@@ -2,7 +2,7 @@
 Description and documentation for the snow-shop project with Module Federation multi-frameworks
 
 # Documentation
-The slides presented at the SnowCamp.io2022 edition are avalaible [here](https://sdedieu.github.io/snow-shop-slides/#/cover)
+The slides presented at the SnowCamp.io2022 and the DevoxxFR2022 editions are avalaible [here](https://sdedieu.github.io/snow-shop-slides/#/cover)
 
 # Sources
  - The shell project sources are available [here](https://github.com/sdedieu/snow-shop-shell)
