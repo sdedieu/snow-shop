@@ -16,5 +16,5 @@ The slides presented at the SnowCamp.io2022 and the DevoxxFR2022 editions are av
 # Installation
  - For the server, clone the project, run `npm install` and `node index.js`
  - For the common library you can use [Verdaccio](https://verdaccio.org/fr-fr/) to host the npm package
- - For all the micro-frontend project including the shell, run `npm ci and `npm run start` 
+ - For all the micro-frontend project including the shell, run `npm ci` and `npm run start` 
 
